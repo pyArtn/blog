@@ -1,0 +1,5 @@
+db.sqlite3
+.idea
+user_images
+__pycache__/
+env
